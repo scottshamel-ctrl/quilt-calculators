@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quilt-calculators.pages.dev/sitemap.xml
