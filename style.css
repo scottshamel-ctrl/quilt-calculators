@@ -24,7 +24,7 @@ dt{color:var(--muted)}dd{margin:0;font-weight:600;text-align:right}
 dl div.hi{background:var(--accent-soft);margin:0 -18px;padding:12px 18px}
 dl div.hi dd{color:var(--accent);font-size:1.1rem}
 .hint{color:var(--muted)}
-.ad{min-height:0;margin:20px 0}
+.ad{min-height:0;margin:20px 0}.ad-banner{display:flex;justify-content:center;min-height:250px}
 .links{columns:2;padding-left:18px}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;padding:0;list-style:none}
 .cards a{display:block;height:100%;padding:14px;border:1px solid var(--line);border-radius:10px;background:#fff;text-decoration:none;color:var(--fg)}
